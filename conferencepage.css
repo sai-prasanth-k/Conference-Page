@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.conference-container {
+    font-family: Roboto;
+}
+
+.image-content {
+    height: 40vh;
+}
+
+.conference-content {
+    text-align: center;
+    padding: 30px;
+}
+
+.conference-heading {
+    color: #183b56;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.conference-para {
+    color: #5a7184;
+}
+
+.person-strength {
+    font-size: 20px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.person-des {
+    color: #5a7184;
+    font-size: 14px;
+}
